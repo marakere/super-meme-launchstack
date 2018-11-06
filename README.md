@@ -10,4 +10,4 @@ More to come here
 
 ## Licence
 
-See [LICENSE](LICENSE) (Lifestartsat101)
+See [LICENSE](LICENSE) (LifeStartsAt101)
